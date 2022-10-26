@@ -1,4 +1,4 @@
-</style>
+
 <body>
 
 <h1 id="building-a-simple-aws-cloudtrail-data-analytics-solution">Building a Simple AWS CloudTrail Data Analytics Solution</h1>
