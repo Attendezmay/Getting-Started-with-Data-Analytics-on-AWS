@@ -41,6 +41,5 @@
 </ol>
 
 
-</script>
 </body>
 </html>
