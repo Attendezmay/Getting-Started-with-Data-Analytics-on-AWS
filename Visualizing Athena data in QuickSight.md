@@ -1,8 +1,6 @@
 </style>
 <body>
-<p><em>[version_1.0]</em></p>
-<p>©2021 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.</p>
-<p>Errors or corrections? Contact us at <a href="https://support.aws.amazon.com/#/contacts/aws-training" target="_blank">https://support.aws.amazon.com/#/contacts/aws-training</a>.</p>
+
 <h1 id="building-a-simple-aws-cloudtrail-data-analytics-solution">Building a Simple AWS CloudTrail Data Analytics Solution</h1>
 <p>The next video demonstrates the steps that are listed here, This document includes the step-by-step instructions that Raf completes on the Part 3 of the demo you are about to watch. You can use this document as a reference guide, or follow up in your own AWS account, which might incur some costs and is not mandatory for completing the course.</p>
 <p><strong>Important:</strong> If you choose to use your own account, make sure that you shut down the AWS resources you created after you finish using them, this is the last part of the demo.</p>
